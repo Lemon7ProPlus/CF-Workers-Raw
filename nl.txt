@@ -1,0 +1,5 @@
+vless://8CF3EA9B-43F9-ADC1-E991-7F71A826C18A@45.89.99.109:57189?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=Wmtn774s_IquW1RBcanLu3tcDER0tVEp5HoxVCASXyo&type=tcp&flow=xtls-rprx-vision&encryption=none#PSY_NL%20reality-vision
+vless://8CF3EA9B-43F9-ADC1-E991-7F71A826C18A@45.89.99.109:57189?security=reality&sni=addons.mozilla.org&fp=chrome&pbk=Wmtn774s_IquW1RBcanLu3tcDER0tVEp5HoxVCASXyo&type=grpc&serviceName=grpc&encryption=none#PSY_NL%20reality-grpc
+vless://8CF3EA9B-43F9-ADC1-E991-7F71A826C18A@skk.moe:443?security=tls&sni=psynl.868053.xyz&type=ws&path=/argox-vl?ed%3D2048&host=psynl.868053.xyz&encryption=none#PSY_NL-Vl
+vmess://eyJhZGQiOiJza2subW9lIiwiYWlkIjoiMCIsImhvc3QiOiJwc3lubC44NjgwNTMueHl6IiwiaWQiOiI4Q0YzRUE5Qi00M0Y5LUFEQzEtRTk5MS03RjcxQTgyNkMxOEEiLCJuZXQiOiJ3cyIsInBhdGgiOiIvYXJnb3gtdm0/ZWQ9MjA0OCIsInBvcnQiOiI0NDMiLCJwcyI6IlBTWV9OTC1WbSIsInNjeSI6Im5vbmUiLCJzbmkiOiJwc3lubC44NjgwNTMueHl6IiwidGxzIjoidGxzIiwidHlwZSI6Im5vbmUiLCJ2IjoiMiJ9
+trojan://8CF3EA9B-43F9-ADC1-E991-7F71A826C18A@skk.moe:443?security=tls&sni=psynl.868053.xyz&type=ws&path=/argox-tr?ed%3D2048&host=psynl.868053.xyz#PSY_NL-Tr
